@@ -30,7 +30,7 @@ public class EMFConfig {
 
     public boolean allowEBEModConfigModify = true;
 
-    public int animationLODDistance = 0;
+    public int animationLODDistance = 20;
 
     public boolean retainDetailOnLowFps = true;
 
